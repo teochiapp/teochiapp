@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teo Chiappero</h1>
 <h3 align="center">A Jr. developer from Argentina</h3>
 
-- 📫 How to reach me **teochiapps@gmail.com**
-- :speech_balloon: I’m looking for help with **Frontend Development**
-- ⚡ Fun fact **I´m also a musician who likes guitar, piano and singing. Love doing exercise as well**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/teochiappero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teochiappero" height="30" width="40" /></a>
