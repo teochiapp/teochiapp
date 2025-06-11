@@ -1,6 +1,7 @@
 # 💫 Sobre Mí:
 
-Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y el desarrollo web. Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales donde pueda crecer profesionalmente y aportar valor a un equipo.  
+Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y el desarrollo web. 
+Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales donde pueda crecer profesionalmente y aportar valor a un equipo.  
 
 📍 Me destaco por ser entusiasta, empático y proactivo, con una fuerte orientación al aprendizaje continuo y a la colaboración.  
 
