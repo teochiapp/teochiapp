@@ -1,5 +1,4 @@
-## Hi there 👋  
-# 💫 About Me:
+# 💫 Sobre Mí:
 
 Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y el desarrollo web. Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales donde pueda crecer profesionalmente y aportar valor a un equipo.  
 
@@ -13,6 +12,7 @@ Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teo-chiappero)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://teochiappero.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teochiappero)
 
 ---
 
