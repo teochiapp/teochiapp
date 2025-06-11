@@ -1,7 +1,6 @@
 # 💫 Sobre Mí:
 
-Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y el desarrollo web. 
-Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales donde pueda crecer profesionalmente y aportar valor a un equipo.  
+Mi nombre es Teo, soy técnico en programación y me apasiona la tecnología y el desarrollo web. Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales donde pueda crecer profesionalmente y aportar valor a un equipo.  
 
 📍 Me destaco por ser entusiasta, empático y proactivo, con una fuerte orientación al aprendizaje continuo y a la colaboración.  
 
@@ -35,8 +34,8 @@ Me encuentro actualmente en Argentina, abierto a nuevas oportunidades laborales 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=teogithubuser&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=teogithubuser&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teogithubuser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=teochiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=teochiapp&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teochiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
